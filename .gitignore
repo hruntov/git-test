@@ -1,1 +1,15 @@
+<<<<<<< HEAD
 .idea
+=======
+.idea/vcs.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/git-test.iml
+git-test.iml
+inspectionProfiles/profiles_settings.xml
+misc.xml
+modules.xml
+inspectionProfiles
+workspace.xml
+.idea
+>>>>>>> new-feature
